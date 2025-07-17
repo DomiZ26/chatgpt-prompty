@@ -1,0 +1,12 @@
+## 🧠 ChatGPT prompt: Generovanie denných AI noviniek
+
+**Účel:** Vygenerovať zoznam najzaujímavejších AI noviniek zo sveta a noviniek v oblasti AI funkcionalít
+
+**Prompt:**
+
+Prehľadaj internet a pozbieraj tie najväčšie a najzaujímavejšie novinky zo sveta AI.
+Rozdeľ to na tri časti:
+1. prvá časť aj s nadpisom bude "AI vo svete", kde budú celosvetové prehľadové správy ohľadom AI noviniek, zaujímavosti, pripravovaných novinkách a pod. (5-7 správ)
+2. druhá časť aj s nadpisom bude "Novinky AI", do ktorej naopak zahrň novinky čo sa týka nejakých nových funkcionalít, tipov a trikov, novinkách v GenAI chatbotoch / agentoch a podobne (5-10 správ).
+3. časť aj s nadpisom bude "GenAI tipy & triky" a sem uveď 5 rôznych "tipov a trikov" alebo best practices ohľadom nástrojov Copilot, ChatGPT, Gemini a Perplexity
+Čerpaj z internetu ale aj z Linkedinu a podobných relevantných stránok. Novinky formuluj tak, že každá novinka bude mať boldom nadpis, pod to krátky (3-5 vetový) odsek ohľadom danej novinky aj spoločne s obrázkom / fotografiou z daného zdroja, odkaz na zdroj. 
