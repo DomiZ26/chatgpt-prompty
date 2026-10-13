@@ -4,38 +4,56 @@
 
 **Prompt:**
 
-Rola: Pôsob ako špičkový AI analytik a technologický kurátor, ktorý píše pre náročných koncových užívateľov. Tvojím cieľom je priniesť objektívny, vysoko konkrétny a prakticky orientovaný prehľad za posledných 7 dní. Vyhni sa marketingovým frázam a všeobecným rečiam.
+Rola: Pôsob ako špičkový AI analytik a technologický kurátor. Tvojím cieľom je priniesť prehľad z AI sveta za posledných 7 dní, ktorý je určený pre zvedavých koncových užívateľov. Tvoj tón je pútavý, maximálne zrozumiteľný (žiaden zložitý IT žargón), ale zároveň odborne presný. Vyhni sa suchým marketingovým frázam a píš tak, aby to čitateľa bavilo a okamžite pochopil, aký to má pre neho prínos.
 
-Zdroje: Prehľadaj popredné technologické portály (The Verge, TechCrunch, MIT Tech Review), odborné newslettre (napr. TLDR AI, Ben’s Bites), diskusie na X (Twitter) a LinkedIne od uznávaných AI praktikov.
+Overovanie a Zdroje (KRITICKÉ):
 
-Štruktúra a formát:
+Pred zaradením akejkoľvek správy over jej pravdivosť, presnosť a aktuálnosť (musí ísť o novinku z posledných 7 dní). Neskresľuj fakty a vyhýbaj sa clickbaitom.
+
+Prehľadávaj overené zdroje (The Verge, TechCrunch, MIT Tech Review, TLDR AI, Ben’s Bites) a diskusie reálnych expertov na sieťach X a LinkedIn.
+
+Ku každej správe musíš pripojiť priamy, preklikávateľný a funkčný URL odkaz na pôvodný overený zdroj.
+
+Štruktúra a formát správ:
 Každá správa musí obsahovať:
 
-Boldom zvýraznený názov (vystihujúci podstatu).
+Trefný a pútavý názov (zvýraznený tučným písmom).
 
-Analytický odsek (3-5 viet): Čo sa stalo, prečo je to dôležité pre bežného užívateľa a aký to má reálny dopad (nie len prečítaná tlačová správa).
+Analytický odsek (3-4 vety ľudskou rečou): Čo presne sa stalo? Prečo je to fascinujúce? Aký to má reálny dopad na bežného používateľa a ako mu to zmení život/prácu? Vylepšuj čitateľnosť, nepíš suchopárne.
 
-Odkaz na zdroj (fyzický URL link).
+Priamy zdroj: [Názov portálu/Zdroja](URL link)
 
-Vizuálny prvok: Ak máš prístup k nástrojom na generovanie/hľadanie, vlož obrázok, inak opíš vizuálnu ukážku, ktorú by mal užívateľ v zdroji hľadať.
+Vizuál: Opíš v jednej vete, čo zaujímavé by si mal užívateľ v zdroji pozrieť (napr. "V článku nájdete video, ako táto funkcia generuje kód v reálnom čase").
 
 Obsahové sekcie:
 
-1. AI vo svete (5-7 správ):
-Zameraj sa na globálne trendy, regulácie (EU AI Act), zásadné vedecké objavy alebo strategické partnerstvá, ktoré menia trh. Hľadaj objektívne správy o bezpečnosti a konkurenčnom boji medzi gigantmi (Google, Microsoft, Meta, Anthropic, Apple).
+1. AI vo svete (3-5 najzaujímavejších správ):
+Zameraj sa na to, čo hýbe svetom (nové regulácie, o ktorých by mali ľudia vedieť, zásadné objavy, súboj Google vs. OpenAI vs. Meta atď.). Hľadaj správy, ktoré majú širší spoločenský dopad, a vysvetli ich tak, aby ich pochopil aj laik.
 
-2. Novinky AI (5-10 správ):
-Tu buď maximálne konkrétny. Hľadaj nové funkcie (napr. Canvas v ChatGPT, Artifacts v Claude, Live modely v Gemini), aktualizácie open-source modelov (Llama, Mistral) a nové špecializované nástroje na produktivitu, video alebo kódovanie. Zabezpeč vyvážené zastúpenie rôznych ekosystémov, nielen OpenAI.
+2. Horúce AI Novinky (5-7 konkrétnych inovácií):
+Vyberaj to, čo si užívateľ môže ideálne hneď teraz (alebo čoskoro) vyskúšať. Nové funkcie vo známych aplikáciách (ako Canvas v ChatGPT, Artifacts v Claude, novinky v Gemini či Copilote), zaujímavé open-source modely alebo nové šikovné nástroje na tvorbu videí, obrázkov či textov.
 
-3. GenAI tipy & triky (5 konkrétnych tipov):
-Uveď 5 unikátnych "best practices" alebo skrytých funkcií pre Copilot, ChatGPT, Gemini, Perplexity a Claude.
+3. Praktické GenAI tipy a triky (3-5 vysoko užitočných tipov):
+Toto musí byť pre užívateľa najhodnotnejšia sekcia. Žiadne banality typu "píš jasne". Chcem konkrétne, okamžite využiteľné techniky pre bežný život.
 
-Podmienka: Nesmú to byť banálne tipy typu „píš jasné prompty“. Chcem konkrétne techniky (napr. Chain-of-Thought, prácu s dátami, špecifické systémové inštrukcie alebo integrácie s iným softvérom).
+Uveď presný príklad promptu alebo postupu pre vybraný nástroj (ChatGPT, Claude, Gemini, Perplexity).
+
+Príklad: Ako presne nahrať excelovskú tabuľku a čo sa s ňou dá robiť, ako si nastaviť custom inštrukcie pre rýchlejšie maily, alebo ako využiť AI na naplánovanie jedálnička či organizáciu úloh.
+
+Zameraj sa na tipy, ktoré ľuďom ušetria čas alebo vyriešia reálny každodenný problém.
 
 Kritéria kvality:
 
-Objektivita: Ak má novinka negatíva alebo obmedzenia, spomeň ich.
+Objektivita a kritické myslenie: Ak má nová funkcia limity, halucinuje alebo je spoplatnená, na rovinu to napíš.
 
-Relevantnosť: Vyberaj veci, ktoré môže užívateľ dnes (alebo čoskoro) reálne použiť.
+Zrozumiteľnosť: Ak musíš použiť technický termín, polopatisticky ho v zátvorke vysvetli.
 
-Rôznorodosť: Nesmieš preferovať jednu značku. Ak jedna dominuje v novinkách, vyváž to tipmi na inú.
+Vyváženosť: Neospevuj len jednu firmu (napr. OpenAI). Ukáž pestrý svet umelej inteligencie.
+
+Hlavné zmeny, ktoré som v prompte urobil:
+
+Tón a štýl: Pridal som inštrukcie pre "ľudskú reč", pútavosť a absenciu zložitého žargónu, aby text nebol príliš strojený a akademický.
+
+Kritické overovanie: Explicitne som vyčlenil samostatný odsek na overovanie faktov, elimináciu halucinácií a povinnosť prikladať skutočné funkčné URL odkazy (LLM modely inak občas generujú fiktívne linky).
+
+Praktickosť v tipoch: Zredukoval som mierne počet správ (kvalita nad kvantitou) a pri tipoch som pridal požiadavku na riešenie "reálnych každodenných problémov" s presnými príkladmi postupov.
